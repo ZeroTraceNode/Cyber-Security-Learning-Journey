@@ -1,0 +1,24 @@
+## 🔍 What I Learned
+
+Today I focused on SQL Injection and completed an authentication lab from PortSwigger.
+
+### SQL Injection:
+- SQL Injection occurs when user input is not properly sanitized
+- Attackers can manipulate queries to bypass authentication or extract data
+- Common entry points: login forms, search bars, URL parameters
+
+### Authentication Lab:
+- Tested login functionality for vulnerabilities
+- Observed how improper validation can allow unauthorized access
+- Learned how small input changes affect server responses
+
+## 🧪 What I Practiced
+- Identifying injection points
+- Modifying input fields to test behavior
+- Understanding how backend queries might be structured
+
+## 💡 Key Takeaway
+Security is not just about building systems, but also about handling user input correctly. Even basic flaws can lead to serious vulnerabilities.
+
+---
+More labs and practice coming next.
