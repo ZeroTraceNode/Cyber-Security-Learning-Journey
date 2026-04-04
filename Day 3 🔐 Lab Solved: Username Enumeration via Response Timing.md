@@ -1,4 +1,4 @@
-🔐 Lab Solved: Username Enumeration via Response Timing
+
 
 ✔️ Identified valid username using response timing differences
 ✔️ Extracted and analyzed Intruder results externally
